@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Timothy
-- 👀 I’m interested in web development and wanting to become a software developer
+- 👀 I’m interested in web development and wanting to become a software engineer
 - 🌱 I’m currently learning various programming languages
 - ⚡ Fun fact: I am a competitive gamer
 
