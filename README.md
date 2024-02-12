@@ -1,7 +1,17 @@
-- 👋 Hi, I’m Timothy
-- 👀 I’m interested in web development and wanting to become a software engineer
-- 🌱 I’m currently learning various programming languages
-- ⚡ Fun fact: I am a competitive gamer
+👋 Hi, I’m Tim
+
+I started in web development and wanting to become a software engineer.
+
+I’m currently learning various programming languages to pursue my dream
+
+Programming Languages:
+- HTML
+- CSS
+- JS
+- Python
+- .Net
+
+⚡ Fun fact: I am a competitive gamer
 
 <!---
 dTeem/dTeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
