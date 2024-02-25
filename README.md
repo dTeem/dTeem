@@ -1,6 +1,6 @@
 👋 Hi, I’m Tim
 
-I started in web development and wanting to become a software engineer.
+I started in web development and wanting to be a software engineer.
 
 I’m currently learning various programming languages to pursue my dream
 
